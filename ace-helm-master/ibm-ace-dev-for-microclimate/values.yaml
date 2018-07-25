@@ -19,7 +19,7 @@ license: "accept"
 
 image:
   # repository is the container repository to use, which defaults to IIB docker registry hub image
-  repository: mycluster.icp:8500/default/ace-microclimate
+  repository: icpcluster.icp:8500/team1/ace-microclimate
   # tag is the tag to use for the container repository
   tag: latest
   # pullPolicy of IfNotPresent causes image pulling to be skipped if it already exists. Change to Always to force a pull.
