@@ -1,4 +1,4 @@
-FROM ibmcom/ace:11.0.0.0
+FROM ace-only
 
 # Set ACE environment variables
 ENV LICENSE=accept \
